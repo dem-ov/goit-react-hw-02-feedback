@@ -6,6 +6,8 @@ import Notification from './components/Notification';
 
 import '../src/styles.css';
 
+
+
 class App extends Component {
   state = {
     good: 0,
